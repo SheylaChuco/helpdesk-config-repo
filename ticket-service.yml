@@ -9,3 +9,10 @@ spring:
 
 mensaje:
   texto: Configuración desde Config Server para Ticket Service
+
+info:
+  app:
+    nombre: Ticket Service
+    descripcion: Microservicio de gestión de tickets - Help Desk
+    version: 1.0.0
+    autor: Sheyla Chuco
