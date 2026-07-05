@@ -9,3 +9,10 @@ spring:
 
 mensaje:
   texto: Configuración desde Config Server para Seguimiento Service
+
+info:
+  app:
+    nombre: Seguimiento Service
+    descripcion: Microservicio de historial de atención - Help Desk
+    version: 1.0.0
+    autor: Sheyla Chuco
