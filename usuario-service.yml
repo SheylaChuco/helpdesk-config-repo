@@ -9,3 +9,10 @@ spring:
 
 mensaje:
   texto: Configuración desde Config Server para Usuario Service
+
+info:
+  app:
+    nombre: Usuario Service
+    descripcion: Microservicio de gestión de usuarios - Help Desk
+    version: 1.0.0
+    autor: Sheyla Chuco
